@@ -1,0 +1,23 @@
+
+
+nav > .signature {
+	font-family: 'Akronim', cursive;
+}
+
+
+div .text-size {
+	font-family: 'Scheherazade New', serif;
+	font-size: 60px;
+}
+
+
+* {
+	font-family: 'Scheherazade New', serif;
+}
+
+
+div #profile-pic {
+	
+		width: 300px;
+		height: auto; 
+}

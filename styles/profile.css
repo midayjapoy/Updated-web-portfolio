@@ -1,0 +1,41 @@
+
+
+nav > .signature {
+	font-family: 'Akronim', cursive;
+}
+
+
+div .text-size {
+	font-family: 'Scheherazade New', serif;
+	font-size: 60px;
+}
+
+
+* {
+	font-family: 'Scheherazade New', serif;
+}
+
+
+div #profile-pic {
+	
+		width: 300px;
+		height: auto; 
+}
+
+
+div .tools {
+	font-size: 60px;
+}
+
+.container-height {
+		padding-bottom: 500px;
+}		
+
+div > .negative-margin {
+	margin-top: -23.5rem;
+}
+
+div .social-media {
+	font-size: 30px;
+}
+
